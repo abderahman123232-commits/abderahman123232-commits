@@ -1,344 +1,240 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0d2b,30:1a1a4e,60:6366f1,80:ffd700,100:0d0d2b&text=ALR+DEV&fontColor=ffffff&fontSize=75&fontAlign=50&fontAlignY=30&animation=twinkling&desc=✦+Full-Stack+Developer+•+SaaS+Architect+•+Cyber+Security+✦&descSize=17&descAlign=50&descAlignY=55">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f0f0ff,30:e0e0ff,60:6366f1,80:ffd700,100:f0f0ff&text=ALR+DEV&fontColor=1a1a4e&fontSize=75&fontAlign=50&fontAlignY=30&animation=twinkling&desc=✦+Full-Stack+Developer+•+SaaS+Architect+•+Cyber+Security+✦&descSize=17&descAlign=50&descAlignY=55">
-    <img width="100%" alt="ALR DEV Premium Banner" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0d2b,30:1a1a4e,60:6366f1,80:ffd700,100:0d0d2b&text=ALR+DEV&fontColor=ffffff&fontSize=75&fontAlign=50&fontAlignY=30&animation=twinkling&desc=✦+Full-Stack+Developer+•+SaaS+Architect+•+Cyber+Security+✦&descSize=17&descAlign=50&descAlignY=55">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0a0f,30:1a0533,70:312e81,100:0a0a0f&text=ALRDEV&fontColor=fff&fontSize=80&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Specialist%20%7C%20SaaS%20Architect&descSize=18&descAlign=50&descAlignY=65">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:f8fafc,30:e0e7ff,70:818cf8,100:f8fafc&text=ALRDEV&fontColor=1e1b4b&fontSize=80&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Specialist%20%7C%20SaaS%20Architect&descSize=18&descAlign=50&descAlignY=65">
+    <img alt="ALRDEV Banner" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0a0f,30:1a0533,70:312e81,100:0a0a0f&text=ALRDEV&fontColor=fff&fontSize=80&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Specialist%20%7C%20SaaS%20Architect&descSize=18&descAlign=50&descAlignY=65">
   </picture>
 </div>
 
-<br>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+I+turn+ideas+into+scalable+digital+products;%F0%9F%92%BB+Full-Stack+%7C+SaaS+%7C+E-Commerce+%7C+Security;%F0%9F%8C%8D+Serving+clients+worldwide+from+Egypt;%E2%9C%A6+Founder+%40+ALR+DEV+%E2%80%94+Building+Digital+Excellence" alt="Typing Animation">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=600&lines=Abderahman+Ali;Founder+%40+ALRDEV;Full-Stack+Architect;Cybersecurity+Engineer;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+</div>
 
-<br>
+<br/>
 
-<p align="center">
+<div align="center">
   <a href="https://alrdev.com" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-alrdev.com-FFD700?style=for-the-badge&labelColor=0d0d2b&logo=google-chrome&logoColor=FFD700" height="38">
+    <img src="https://img.shields.io/badge/ALRDEV.COM-%230a0a0f.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4MThDRjgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjIgMTIuMjUyYzAgMS4yNDItLjQ5MiAyLjM2LTEuMjkgMy4xNTgtLjguNzk4LTEuOTE2IDEuMjktMy4xNTggMS4yOS0xLjI0MiAwLTIuMzYtLjQ5Mi0zLjE1OC0xLjI5LS43OTgtLjgtMS4yOS0xLjkxNi0xLjI5LTMuMTU4IDAtMS4yNDIuNDkyLTIuMzYgMS4yOS0zLjE1OC44Ljc5OCAxLjkxNiAxLjI5IDMuMTU4IDEuMjl2MGMxLjI0MiAwIDIuMzYtLjQ5MiAzLjE1OC0xLjI5Ljc5OC0uOCAxLjI5LTEuOTE2IDEuMjktMy4xNTh2MGMwLTEuMjQyLS40OTItMi4zNi0xLjI5LTMuMTU4LS44LS43OTgtMS45MTYtMS4yOS0zLjE1OC0xLjI5LTEuMjQyIDAtMi4zNi40OTItMy4xNTggMS4yOS0uNzk4LjgtMS4yOSAxLjkxNi0xLjI5IDMuMTU4Ii8+PHBhdGggZD0iTTIgMTEuNzQ4YzAtMS4yNDIuNDkyLTIuMzYgMS4yOS0zLjE1OC44LS43OTggMS45MTYtMS4yOSAzLjE1OC0xLjI5czIuMzYuNDkyIDMuMTU4IDEuMjljLjc5OC44IDEuMjkgMS45MTYgMS4yOSAzLjE1OCAwIDEuMjQyLS40OTIgMi4zNi0xLjI5IDMuMTU4LS44Ljc5OC0xLjkxNiAxLjI5LTMuMTU4IDEuMjktMS4yNDIgMC0yLjM2LS40OTItMy4xNTgtMS4yOS0uNzk4LS44LTEuMjktMS45MTYtMS4yOS0zLjE1OHYweiIvPjwvc3ZnPg==&logoColor=818CF8&labelColor=0a0a0f" height="35" />
   </a>
-  <a href="mailto:abderahman123232@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-abderahman123232%40gmail.com-D14836?style=for-the-badge&labelColor=0d0d2b&logo=gmail&logoColor=white" height="38">
-  </a>
+  &nbsp;&nbsp;
   <a href="https://abderahman123232-commits.github.io/WEB-PORT/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%81%20Portfolio-View%20My%20Work-6366F1?style=for-the-badge&labelColor=0d0d2b&logo=aboutdotme&logoColor=white" height="38">
+    <img src="https://img.shields.io/badge/Portfolio-%230a0a0f.svg?style=for-the-badge&logo=google-chrome&logoColor=818CF8&labelColor=0a0a0f" height="35" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abderahman123232-commits&style=for-the-badge&color=FFD700&label=✦+PROFILE+VIEWS+✦" alt="Views">
-  <img src="https://img.shields.io/github/followers/abderahman123232-commits?style=for-the-badge&color=6366F1&labelColor=0d0d2b&logo=github&label=✦+FOLLOWERS+✦" alt="Followers">
-  <img src="https://img.shields.io/github/stars/abderahman123232-commits?style=for-the-badge&color=FFD700&labelColor=0d0d2b&logo=github&label=✦+STARS+✦" alt="Stars">
-</p>
+<br/>
 
-<br>
+<div align="center">
+  
+  [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61580089432542)
+  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abderahman123232/)
+  [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AliAbderah55921)
+  [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kali123456xz)
+  [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B201553479878&text&type=phone_number&app_absent=0)
+  [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Abderahman-kali-linux)
+  [![](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/abderahman123232)
+  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderahman123232@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abderahman123232-commits&style=for-the-badge&color=818CF8&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
+
+<br/>
 
 ---
+<br/>
 
-<br>
-
-<h2 align="center">
-  ✦ ✦ ✦  𝔸𝔹𝕆𝕌𝕋 𝕄𝔼  ✦ ✦ ✦
-</h2>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-
-### 👨‍💻 Who I Am
-
-> **Abderahman Ali** — Founder & Lead Developer at **ALR DEV**
->
-> I architect and build **high-performance digital platforms** — from SaaS products and e-commerce stores to enterprise dashboards and secure APIs. With a deep roots in **cybersecurity**, every product I ship is hardened, optimized, and built to scale from day one.
->
-> 🌍 Based in **Egypt** — delivering worldwide.
-> 🎯 **100+** projects delivered across diverse industries.
-> 🛡️ **Security-first** mindset in everything I build.
-> 🤝 **Remote-first** collaboration with global clients.
-
-<br>
-
-### 🚀 What I Build
-
-| Platform | Description |
-|----------|-------------|
-| 🏢 **SaaS Products** | Multi-tenant platforms with auth, billing, and team management |
-| 🛒 **E-Commerce** | Full-featured stores with Stripe, inventory, and order tracking |
-| 📊 **Dashboards** | Admin panels, analytics dashboards & CRM systems |
-| 📅 **Booking Systems** | Calendar-based scheduling with payments & reminders |
-| 🔗 **Custom APIs** | RESTful & GraphQL backends with Supabase / NestJS |
-| 🛡️ **Security Audits** | OWASP assessments, penetration testing & hardening |
-
-    </td>
-    <td width="35%" valign="top" align="center">
-
-### 📸
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 20px;" alt="Coding">
-
-<br><br>
-
-### ✦ Quick Info ✦
+## ⚡ The Vision
 
 ```yaml
-📍  Egypt
-🏢  ALR DEV
-💻  Full-Stack Dev
-🛡️  Security Specialist
-🌐  Remote Worldwide
-📈  100+ Projects
-🎯  SaaS Expert
+developer: Abderahman Ali
+brand: ALRDEV
+location: "Egypt — Serving the World"
+mission: "Building high-performance digital platforms where security meets innovation"
+specialties:
+  - 🏗️  Full-Stack Architecture & SaaS Development
+  - 🔐  Cybersecurity & Ethical Hacking
+  - ⚡  Performance Engineering & Optimization
+  - 🌐  RESTful & GraphQL API Design
+  - 🧠  Complex Problem Solving
+philosophy: "Code is craft. Security is mindset. Performance is culture."
 ```
 
-    </td>
-  </tr>
-</table>
-
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 <h2 align="center">
-  ✦ ✦ ✦  𝕊𝕂𝕀𝕃𝕃𝕊 & 𝕋𝔼ℂℍℕ𝕆𝕃𝕆𝔾𝕐  ✦ ✦ ✦
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30"/>
+  &nbsp;Technology Arsenal&nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30"/>
 </h2>
 
-<br>
+<br/>
 
-<h3 align="center">
-  <img src="https://img.icons8.com/fluency/96/null/source-code.png" width="30" valign="middle">
-  ⚡ Frontend Engineering
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=1a1a4e" height="36">
-</p>
+### 🎨 Frontend
 
-<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3 align="center">
-  <img src="https://img.icons8.com/fluency/96/null/server.png" width="30" valign="middle">
-  ⚡ Backend & Database
-</h3>
+### 🖥️ Backend & Database
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1a4e" height="36">
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br>
+### 🛠️ DevOps & Tools
 
-<h3 align="center">
-  <img src="https://img.icons8.com/fluency/96/null/toolbox.png" width="30" valign="middle">
-  ⚡ Tools & Infrastructure
-</h3>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=1a1a4e" height="36">
-</p>
+### 🧰 IDEs
 
-<br>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-<h3 align="center">
-  <img src="https://img.icons8.com/fluency/96/null/security-shield.png" width="30" valign="middle">
-  ⚡ Cybersecurity Arsenal
-</h3>
+### 🔒 Cybersecurity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1a1a4e" height="36">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=1a1a4e" height="36">
-</p>
+![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Pen_Testing-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-00ADEF?style=for-the-badge&logo=wireshark&logoColor=white)
 
-<br>
+</div>
+
+<br/>
 
 ---
 
-<br>
+<br/>
 
-<h2 align="center">
-  ✦ ✦ ✦  𝕊𝔼ℝ𝕍𝕀ℂ𝔼𝕊  ✦ ✦ ✦
-</h2>
+<h2 align="center">📌 Core Expertise</h2>
 
-<br>
+<br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/null/source-code.png" width="55"><br>
-      <strong>Web Development</strong>
-      <br><sub>React · Next.js · TypeScript</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/null/shop.png" width="55"><br>
-      <strong>E-Commerce</strong>
-      <br><sub>Stripe · Inventory · Orders</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/null/dashboard.png" width="55"><br>
-      <strong>SaaS Platforms</strong>
-      <br><sub>Auth · Billing · Multi-tenant</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/null/api-settings.png" width="55"><br>
-      <strong>API Development</strong>
-      <br><sub>Supabase · NestJS · REST/GraphQL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/null/management.png" width="55"><br>
-      <strong>Admin Dashboards</strong>
-      <br><sub>Analytics · CRM · Reports</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/null/booking.png" width="55"><br>
-      <strong>Booking Systems</strong>
-      <br><sub>Calendar · Payments · Reminders</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/null/security-shield.png" width="55"><br>
-      <strong>Security Audit</strong>
-      <br><sub>Pentesting · OWASP · Hardening</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/null/idea.png" width="55"><br>
-      <strong>MVP Launch</strong>
-      <br><sub>Fast · Lean · Production-ready</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+        <br/><br/>
+        <strong>Full-Stack Development</strong>
+        <br/><br/>
+        <sub>React • Next.js • Node.js • TypeScript<br/>SaaS platforms • Web apps • APIs</sub>
+        <br/><br/>
+      </td>
+      <td width="33%" align="center">
+        <br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+        <br/><br/>
+        <strong>Cybersecurity</strong>
+        <br/><br/>
+        <sub>Penetration testing • Vulnerability assessment<br/>Network security • Ethical hacking</sub>
+        <br/><br/>
+      </td>
+      <td width="33%" align="center">
+        <br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+        <br/><br/>
+        <strong>DevOps & Infrastructure</strong>
+        <br/><br/>
+        <sub>Docker • Cloudflare • Linux servers<br/>CI/CD • Performance optimization</sub>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
-<h2 align="center">
-  ✦ ✦ ✦  𝔾𝕀𝕋ℍ𝕌𝔹 𝔸ℕ𝔸𝕃𝕐𝕋𝕀ℂ𝕊  ✦ ✦ ✦
-</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<br>
+<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=e0e0e0&icon_color=6366F1&rank_icon=github&show=reviews,discussions_started&border_radius=15">
-    <img height="210" src="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=e0e0e0&icon_color=6366F1&rank_icon=github&show=reviews,discussions_started&border_radius=15">
-  </picture>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&show_icons=true&count_private=true&hide_border=true&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&custom_title=📈+Contribution+Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderahman123232-commits&layout=compact&hide_border=true&title_color=818CF8&text_color=c9d1d9&bg_color=0d1117&langs_count=8&custom_title=🔢+Languages" height="170" />
+</div>
 
-<br>
+<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abderahman123232-commits&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=FFD700&text_color=e0e0e0&border_radius=15">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=abderahman123232-commits&layout=donut&langs_count=8&theme=transparent&hide_border=true&title_color=FFD700&text_color=e0e0e0&border_radius=15">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abderahman123232-commits&theme=transparent&hide_border=true&border_radius=15&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=e0e0e0&sideNums=e0e0e0&sideLabels=8b949e&dates=8b949e&stroke=1e1b4e">
-    <img height="200" src="https://streak-stats.demolab.com?user=abderahman123232-commits&theme=transparent&hide_border=true&border_radius=15&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=e0e0e0&sideNums=e0e0e0&sideLabels=8b949e&dates=8b949e&stroke=1e1b4e">
-  </picture>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderahman123232-commits&theme=midnight-purple&hide_border=true&background=0d1117&ring=818CF8&fire=818CF8&currStreakNum=c9d1d9&sideNums=818CF8" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abderahman123232-commits&theme=discord&no-frame=true&column=4&row=1&margin-w=15&margin-h=15" height="170" />
+</div>
 
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abderahman123232-commits&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=abderahman123232-commits&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="100%">
-  </picture>
-</p>
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abderahman123232-commits/abderahman123232-commits/output/snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/abderahman123232-commits/abderahman123232-commits/output/snake.svg" width="100%">
-  </picture>
-</p>
-
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
-<h2 align="center">
-  ✦ ✦ ✦  ℂ𝕆ℕℕ𝔼ℂ𝕋 𝕎𝕀𝕋ℍ 𝕄𝔼  ✦ ✦ ✦
-</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abderahman123232-commits/abderahman123232-commits/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abderahman123232-commits/abderahman123232-commits/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abderahman123232-commits/abderahman123232-commits/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
-<br>
+<br/>
 
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61580089432542"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d2b" height="40"></a>
-  <a href="https://www.instagram.com/abderahman123232/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d2b" height="40"></a>
-  <a href="https://x.com/AliAbderah55921"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d2b" height="40"></a>
-  <a href="https://t.me/kali123456xz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d2b" height="40"></a>
-  <a href="https://api.whatsapp.com/send/?phone=%2B201553479878"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d2b" height="40"></a>
-  <a href="https://www.youtube.com/@Abderahman-kali-linux"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0d2b" height="40"></a>
-  <a href="https://tryhackme.com/p/abderahman123232"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d0d2b" height="40"></a>
-  <a href="https://abderahman123232-commits.github.io/WEB-PORT/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=aboutdotme&logoColor=white&labelColor=0d0d2b" height="40"></a>
-</p>
+<img src="https://raw.githubusercontent.com/abderahman123232-commits/abderahman123232-commits/output/snake.svg" alt="Snake animation" width="100%"/>
 
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d0d2b,30:1a1a4e,60:6366f1,80:ffd700,100:0d0d2b&text=ALR+DEV+%E2%80%94+Building+Digital+Excellence&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=twinkling">
-    <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d0d2b,30:1a1a4e,60:6366f1,80:ffd700,100:0d0d2b&text=ALR+DEV+%E2%80%94+Building+Digital+Excellence&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=twinkling">
-  </picture>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shuriken&height=160&color=0:0a0a0f,30:1a0533,70:312e81,100:0a0a0f&text=ALRDEV&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=%22Code+is+craft.+Security+is+mindset.+Performance+is+culture.%22&descSize=16&descAlign=50&descAlignY=70" alt="Footer" />
+</div>
 
-<p align="center">
-  <code>abderahman123232@gmail.com</code> · <a href="https://alrdev.com"><code>alrdev.com</code></a>
-  <br><br>
-  <sub>✦ © 2024-2026 ALR DEV · All Rights Reserved ✦</sub>
-  <br>
-  <sub><em>✦ Built with 💜 from Egypt ✦</em></sub>
-</p>
+<br/>
+
+<div align="center">
+  <b>Built with ⚡ by Abderahman Ali — Founder @ ALRDEV</b>
+  <br/><br/>
+  <a href="https://alrdev.com">alrdev.com</a> &nbsp;·&nbsp; <a href="mailto:abderahman123232@gmail.com">abderahman123232@gmail.com</a>
+  <br/><br/>
+  <sub>© 2026 ALRDEV. Engineering the future, one commit at a time.</sub>
+</div>
+
+<br/>
