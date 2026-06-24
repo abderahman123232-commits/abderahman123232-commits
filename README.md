@@ -15,28 +15,96 @@
 <br/>
 
 <div align="center">
-  <a href="https://alrdev.com" target="_blank">
-    <img src="https://img.shields.io/badge/ALRDEV.COM-%230a0a0f.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM4MThDRjgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjIgMTIuMjUyYzAgMS4yNDItLjQ5MiAyLjM2LTEuMjkgMy4xNTgtLjguNzk4LTEuOTE2IDEuMjktMy4xNTggMS4yOS0xLjI0MiAwLTIuMzYtLjQ5Mi0zLjE1OC0xLjI5LS43OTgtLjgtMS4yOS0xLjkxNi0xLjI5LTMuMTU4IDAtMS4yNDIuNDkyLTIuMzYgMS4yOS0zLjE1OC44Ljc5OCAxLjkxNiAxLjI5IDMuMTU4IDEuMjl2MGMxLjI0MiAwIDIuMzYtLjQ5MiAzLjE1OC0xLjI5Ljc5OC0uOCAxLjI5LTEuOTE2IDEuMjktMy4xNTh2MGMwLTEuMjQyLS40OTItMi4zNi0xLjI5LTMuMTU4LS44LS43OTgtMS45MTYtMS4yOS0zLjE1OC0xLjI5LTEuMjQyIDAtMi4zNi40OTItMy4xNTggMS4yOS0uNzk4LjgtMS4yOSAxLjkxNi0xLjI5IDMuMTU4Ii8+PHBhdGggZD0iTTIgMTEuNzQ4YzAtMS4yNDIuNDkyLTIuMzYgMS4yOS0zLjE1OC44LS43OTggMS45MTYtMS4yOSAzLjE1OC0xLjI5czIuMzYuNDkyIDMuMTU4IDEuMjljLjc5OC44IDEuMjkgMS45MTYgMS4yOSAzLjE1OCAwIDEuMjQyLS40OTIgMi4zNi0xLjI5IDMuMTU4LS44Ljc5OC0xLjkxNiAxLjI5LTMuMTU4IDEuMjktMS4yNDIgMC0yLjM2LS40OTItMy4xNTgtMS4yOS0uNzk4LS44LTEuMjktMS45MTYtMS4yOS0zLjE1OHYweiIvPjwvc3ZnPg==&logoColor=818CF8&labelColor=0a0a0f" height="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://abderahman123232-commits.github.io/WEB-PORT/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230a0a0f.svg?style=for-the-badge&logo=google-chrome&logoColor=818CF8&labelColor=0a0a0f" height="35" />
-  </a>
+
+<table>
+  <tr>
+    <td align="center" style="background: #0d1117; border: 2px solid #312e81; border-radius: 24px; padding: 30px 40px; max-width: 680px;">
+
+      <span style="color: #818CF8; font-size: 11px; letter-spacing: 6px; font-weight: 700;">✦ THE VISION ✦</span>
+
+      <br/><br/>
+
+      <span style="color: #f1f5f9; font-size: 28px; font-weight: 800;">Abderahman Ali</span>
+      <br/>
+      <span style="color: #a78bfa; font-size: 13px; letter-spacing: 4px; font-weight: 500;">FOUNDER @ ALRDEV</span>
+
+      <br/><br/>
+
+      <span style="color: #6b7280; font-size: 13px;">🌍 Egypt — Serving the World</span>
+
+      <br/><br/>
+
+      <hr style="width: 30%; border: 1px solid #312e81;" />
+
+      <br/>
+
+      <p style="color: #c9d1d9; font-size: 14px; font-style: italic; line-height: 1.8; max-width: 480px; margin: 0 auto;">
+        "Building high-performance digital platforms<br/>where security meets innovation"
+      </p>
+
+      <br/>
+
+      <hr style="width: 30%; border: 1px solid #312e81;" />
+
+      <br/>
+
+      <span style="color: #818CF8; font-size: 12px; letter-spacing: 2px; font-weight: 600;">SPECIALTIES</span>
+      <br/><br/>
+
+      <table style="margin: 0 auto;">
+        <tr>
+          <td align="center" style="padding: 6px 12px;">
+            <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" style="border-radius: 50%; border: 2px solid #818CF8; padding: 6px; background: #0d1117;" title="Full-Stack Architecture & SaaS"/></a>
+            <br/><span style="color: #9ca3af; font-size: 10px;">Full-Stack</span>
+          </td>
+          <td align="center" style="padding: 6px 12px;">
+            <a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" style="border-radius: 50%; border: 2px solid #818CF8; padding: 6px; background: #0d1117;" title="Cybersecurity & Ethical Hacking"/></a>
+            <br/><span style="color: #9ca3af; font-size: 10px;">Security</span>
+          </td>
+          <td align="center" style="padding: 6px 12px;">
+            <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" style="border-radius: 50%; border: 2px solid #818CF8; padding: 6px; background: #0d1117;" title="Performance Engineering"/></a>
+            <br/><span style="color: #9ca3af; font-size: 10px;">Performance</span>
+          </td>
+          <td align="center" style="padding: 6px 12px;">
+            <a href="https://graphql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" style="border-radius: 50%; border: 2px solid #818CF8; padding: 6px; background: #0d1117;" title="RESTful & GraphQL API Design"/></a>
+            <br/><span style="color: #9ca3af; font-size: 10px;">API Design</span>
+          </td>
+          <td align="center" style="padding: 6px 12px;">
+            <a href="https://github.com/abderahman123232-commits" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" style="border-radius: 50%; border: 2px solid #818CF8; padding: 6px; background: #0d1117;" title="Complex Problem Solving"/></a>
+            <br/><span style="color: #9ca3af; font-size: 10px;">Problem Solving</span>
+          </td>
+        </tr>
+      </table>
+
+      <br/>
+
+      <hr style="width: 60%; border: 0.5px solid #1a0533;" />
+
+      <br/>
+
+      <span style="color: #818CF8; font-size: 11px; letter-spacing: 1px;">
+        ⚡ Code is craft. Security is mindset. Performance is culture.
+      </span>
+
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
 <div align="center">
-  
-  [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61580089432542)
-  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abderahman123232/)
-  [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AliAbderah55921)
-  [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kali123456xz)
-  [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B201553479878&text&type=phone_number&app_absent=0)
-  [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Abderahman-kali-linux)
-  [![](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/abderahman123232)
-  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderahman123232@gmail.com)
-
+  <a href="https://alrdev.com" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="ALRDEV.COM"/></a>&nbsp;&nbsp;
+  <a href="https://abderahman123232-commits.github.io/WEB-PORT/" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61580089432542" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="Facebook"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/abderahman123232/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://x.com/AliAbderah55921" target="_blank"><img src="https://cdn.simpleicons.org/x/ffffff" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="X"/></a>&nbsp;&nbsp;
+  <a href="https://t.me/kali123456xz" target="_blank"><img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="Telegram"/></a>&nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send/?phone=%2B201553479878&text&type=phone_number&app_absent=0" target="_blank"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="WhatsApp"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Abderahman-kali-linux" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="YouTube"/></a>&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/abderahman123232" target="_blank"><img src="https://cdn.simpleicons.org/tryhackme/88CC14" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="TryHackMe"/></a>&nbsp;&nbsp;
+  <a href="mailto:abderahman123232@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/D14836" width="52" height="52" style="border-radius: 50%; border: 2px solid #818CF8; padding: 8px; background: #0d1117;" title="Gmail"/></a>
 </div>
 
 <br/>
@@ -46,28 +114,6 @@
 </div>
 
 <br/>
-
----
-<br/>
-
-## ⚡ The Vision
-
-```yaml
-developer: Abderahman Ali
-brand: ALRDEV
-location: "Egypt — Serving the World"
-mission: "Building high-performance digital platforms where security meets innovation"
-specialties:
-  - 🏗️  Full-Stack Architecture & SaaS Development
-  - 🔐  Cybersecurity & Ethical Hacking
-  - ⚡  Performance Engineering & Optimization
-  - 🌐  RESTful & GraphQL API Design
-  - 🧠  Complex Problem Solving
-philosophy: "Code is craft. Security is mindset. Performance is culture."
-```
-
-<br/>
-
 ---
 
 <br/>
