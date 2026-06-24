@@ -1,21 +1,15 @@
-<br clear="both">
-
-<h1 align="center">Welcome to everyone who viewed my profile</h1>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="460" src="https://images.steamusercontent.com/ugc/244710630325715238/DBF2154CE721814E9B0F8C6B14D1578A92A3F7B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0f,50:6366f1,100:0a0a0f&text=ALR%20DEV&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=35&animation=fadeIn" alt="ALR DEV" />
 </div>
 
-###
-
 <br clear="both">
 
+<h1 align="center">👋 Welcome to my GitHub</h1>
+
+###
+
 <div align="center">
-  <img height="440" src="https://jessysaurusrex.com/wp-content/uploads/2013/11/giphy-3.gif"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;SaaS+%26+Web+Platform+Builder;Cybersecurity+Specialist;Founder+%40+ALR+DEV" alt="Typing SVG" />
 </div>
 
 ###
@@ -48,87 +42,85 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://abderahman123232-commits.github.io/WEB-PORT/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="matrix logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abderahman123232-commits.abderahman123232-commits&right_color=aliceblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abderahman123232-commits.abderahman123232-commits&right_color=6366F1" />
 </div>
-
-###
-
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">My name is Abderahman Ali, an Arab hacker specializing in cyberattacks on devices, networks, and servers.<br><br>- Work freelance in the Red Offensive team.<br>- Specialized entirely in hacking devices, servers, networks, and backend websites.<br>- I have basic knowledge of front-end and back-end development and simple application design.<br>- I have experience in virus creation, specifically ransomware, backdoors, and mass destruction viruses.<br>- I am connected to a network full of professional hackers in my field.<br>- I also own a website on the dark web specifically for unethical and harmful reverse engineering services. (The website link can only be shared privately due to GitHub's policies and rules).</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vagrant/1868F2" height="40" alt="vagrant logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/phpstorm/000000" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-</div>
-
-###
-
-<p align="left"></p>
 
 ###
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderahman123232-commits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2&custom_title=My%20languages" height="150" alt="languages graph"  />
+<h2 align="center">🚀 About ALR DEV</h2>
+
+###
+
+<p align="center">
+  I'm <strong>Abderahman Ali</strong> — the founder and developer behind <strong>ALR DEV</strong>.<br>
+  I build modern, high-performance web platforms that drive real business results.
+</p>
+
+###
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🌐 <strong>What I Build</strong></td>
+      <td align="center">🛡️ <strong>Also Know</strong></td>
+      <td align="center">📍 <strong>Based in</strong></td>
+    </tr>
+    <tr>
+      <td>Full-stack web apps • SaaS platforms<br>E-commerce • Dashboards • APIs</td>
+      <td>Cybersecurity • Penetration Testing<br>Vulnerability Assessment</td>
+      <td>Egypt — Serving clients worldwide</td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+###
+
+<div align="center">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" height="50" />
+</div>
+
+###
+
+<div align="center">
+  <h3>Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,nestjs,php,nodejs,express,py" height="50" />
+</div>
+
+###
+
+<div align="center">
+  <h3>Tools & Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,git,github,vscode,cloudflare,debian,redhat,androidstudio,pycharm,webstorm,phpstorm" height="50" />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderahman123232-commits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="160" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderahman123232-commits&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
 </div>
 
 ###
@@ -149,11 +141,14 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&reversal=false&text=Dark%20Web%20Hacker&fontSize=69&fontColor=fffff&fontAlign=50&fontAlignY=50&stroke=fffff&strokeWidth=445&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+<br clear="both">
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shuriken&height=120&color=0:0a0a0f,50:6366f1,100:0a0a0f&text=ALR%20DEV%20•%20Full-Stack%20Developer&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling" />
+</div>
 
 ###
 
-
+<div align="center">
+  <p>💼 <a href="https://alrdev.com">alrdev.com</a> • 📧 abderahman123232@gmail.com</p>
+</div>
