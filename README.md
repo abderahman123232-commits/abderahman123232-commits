@@ -1,100 +1,108 @@
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/null/source-code.png" width="60">
-  <h1>ALR DEV</h1>
-  <p><code>Full-Stack Developer · SaaS Architect · Founder</code></p>
-</div>
-
-<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=800&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;SaaS+Architect;Cybersecurity+Specialist;Founder+%40+ALR+DEV">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=800&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;SaaS+Architect;Cybersecurity+Specialist;Founder+%40+ALR+DEV">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&customColorList=2,12,24&text=ALR%20DEV&fontSize=60&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Cybersecurity%20Specialist&descSize=16&descAlignY=75&descAlign=50">
+    <img alt="ALR DEV Banner" width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&customColorList=2,12,24&text=ALR%20DEV&fontSize=60&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Cybersecurity%20Specialist&descSize=16&descAlignY=75&descAlign=50">
   </picture>
 </div>
 
 <br>
 
----
+<p align="center">
+  <a href="https://alrdev.com"><img src="https://img.shields.io/badge/ALRDEV.COM-000?style=flat-square&logo=google-chrome&logoColor=white&labelColor=6366F1" height="28"></a>
+  <a href="mailto:abderahman123232@gmail.com"><img src="https://img.shields.io/badge/CONTACT-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=8B0000" height="28"></a>
+  <a href="https://abderahman123232-commits.github.io/WEB-PORT/"><img src="https://img.shields.io/badge/PORTFOLIO-000?style=flat-square&logo=aboutdotme&logoColor=white&labelColor=1a1a2e" height="28"></a>
+</p>
 
-### /about
-
-```yaml
-name: Abderahman Ali
-alias: ALR DEV
-location: "Egypt"
-occupation: Full-Stack Developer & Founder
-company: "@alrdev"
-email: abderahman123232@gmail.com
-website: https://alrdev.com
-focus:
-  - SaaS platforms
-  - High-performance web apps
-  - Secure system architecture
-  - E-commerce solutions
-```
-
----
-
-### /stack
-
-```
-Frontend     →  React · Next.js · TypeScript · Tailwind · Framer
-Backend      →  Supabase · Firebase · NestJS · Node.js · Python
-Infra        →  Docker · Linux · Cloudflare · Git · Bash
-Security     →  OWASP · Pentesting · Hardening · RBAC
-```
-
----
-
-### /stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1&text_bold=false&rank_icon=percent&card_width=400">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&card_width=400">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1&text_bold=false&rank_icon=percent&card_width=400">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abderahman123232-commits&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=6366F1&text_color=c9d1d9&card_width=350">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abderahman123232-commits&layout=compact&langs_count=6&hide_border=true&card_width=350">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=abderahman123232-commits&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=6366F1&text_color=c9d1d9&card_width=350">
-  </picture>
-</div>
+<p align="center">
+  <code>abderahman123232@gmail.com</code> · <a href="https://t.me/kali123456xz"><code>Telegram</code></a> · <a href="https://api.whatsapp.com/send/?phone=%2B201553479878"><code>WhatsApp</code></a>
+</p>
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abderahman123232-commits&theme=transparent&hide_border=true&card_width=775&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=1e1b4b">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abderahman123232-commits&hide_border=true&card_width=775">
-    <img height="180" src="https://streak-stats.demolab.com?user=abderahman123232-commits&theme=transparent&hide_border=true&card_width=775&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=1e1b4b">
-  </picture>
-</div>
+---
+
+<br>
+
+### ✦ About
+
+> **Building enterprise-grade web platforms with security-first architecture.**
+>
+> I'm **Abderahman Ali** — founder of **ALR DEV**. I architect and build full-stack SaaS products, e-commerce platforms, and custom web applications. Every project I ship is engineered for performance, hardened against threats, and designed to scale from day one.
+
+<br>
 
 ---
 
-### /connect
+<br>
 
-<div align="center">
-  <a href="https://alrdev.com"><code>website</code></a> •
-  <a href="https://www.facebook.com/profile.php?id=61580089432542"><code>facebook</code></a> •
-  <a href="https://www.instagram.com/abderahman123232/"><code>instagram</code></a> •
-  <a href="https://x.com/AliAbderah55921"><code>x</code></a> •
-  <a href="https://t.me/kali123456xz"><code>telegram</code></a> •
-  <a href="https://api.whatsapp.com/send/?phone=%2B201553479878"><code>whatsapp</code></a> •
-  <a href="https://www.youtube.com/@Abderahman-kali-linux"><code>youtube</code></a> •
-  <a href="https://tryhackme.com/p/abderahman123232"><code>tryhackme</code></a>
-</div>
+### ✦ Expertise
 
-<div align="center">
-  <sub><code>abderahman123232@gmail.com</code></sub>
+| Area | Technologies |
+|------|-------------|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| **Backend** | Supabase, Firebase, NestJS, Node.js, Python, PHP |
+| **Infrastructure** | Docker, Linux, Cloudflare, Git, CI/CD |
+| **Security** | OWASP, Pentesting, RBAC, Input Sanitization, CSP |
+
+<br>
+
+---
+
+<br>
+
+### ✦ GitHub Analytics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=e0e0e0&icon_color=6366F1&rank_icon=percent&card_width=440">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=abderahman123232-commits&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=FFD700&text_color=e0e0e0&icon_color=6366F1&rank_icon=percent&card_width=440">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abderahman123232-commits&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=FFD700&text_color=e0e0e0&card_width=340">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=abderahman123232-commits&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=FFD700&text_color=e0e0e0&card_width=340">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abderahman123232-commits&theme=transparent&hide_border=true&card_width=800&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=e0e0e0&sideNums=e0e0e0&sideLabels=8b949e&dates=8b949e&stroke=1e1b4b">
+    <img height="170" src="https://streak-stats.demolab.com?user=abderahman123232-commits&theme=transparent&hide_border=true&card_width=800&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=e0e0e0&sideNums=e0e0e0&sideLabels=8b949e&dates=8b949e&stroke=1e1b4b">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abderahman123232-commits&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10">
+    <img src="https://github-profile-trophy.vercel.app/?username=abderahman123232-commits&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" width="100%">
+  </picture>
+</p>
+
+<br>
+
+---
+
+<br>
+
+### ✦ Connect
+
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=61580089432542"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=0d1117" height="30"></a>
+  <a href="https://www.instagram.com/abderahman123232/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" height="30"></a>
+  <a href="https://x.com/AliAbderah55921"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" height="30"></a>
+  <a href="https://t.me/kali123456xz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117" height="30"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B201553479878"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d1117" height="30"></a>
+  <a href="https://www.youtube.com/@Abderahman-kali-linux"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=0d1117" height="30"></a>
+  <a href="https://tryhackme.com/p/abderahman123232"><img src="https://img.shields.io/badge/TryHackMe-88CC14?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d1117" height="30"></a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <sub>© 2024-2026 <strong>ALR DEV</strong> — <em>Building Digital Excellence</em></sub>
   <br>
-  <sub>© 2024-2026 ALR DEV</sub>
-</div>
-
----
-
-<div align="center">
-  <sub><code>echo "Thanks for stopping by."</code></sub>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=abderahman123232-commits&style=flat-square&color=6366F1&label=views" alt="Profile views">
-</div>
+  <img src="https://komarev.com/ghpvc/?username=abderahman123232-commits&style=flat-square&color=FFD700&label=profile+views" alt="views">
+</p>
