@@ -82,56 +82,73 @@ philosophy: "Code is craft. Security is mindset. Performance is culture."
 
 <div align="center">
 
-### 🎨 Frontend
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" title="HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="65" height="65" title="CSS3"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="65" height="65" title="JavaScript"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="65" height="65" title="TypeScript"/></a>&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="65" height="65" title="React"/></a>&nbsp;
+<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="65" height="65" title="Next.js"/></a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="65" height="65" title="Tailwind CSS"/></a>
+</details>
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<details open>
+<summary><b>🖥️ Backend & Database</b></summary>
+<br/>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" height="65" title="Node.js"/></a>&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="65" height="65" title="Express"/></a>&nbsp;
+<a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="65" height="65" title="NestJS"/></a>&nbsp;
+<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="65" height="65" title="PHP"/></a>&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="65" height="65" title="Python"/></a>&nbsp;
+<a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="65" height="65" title="Supabase"/></a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="65" height="65" title="Firebase"/></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="65" height="65" title="PostgreSQL"/></a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" height="65" title="MongoDB"/></a>
+</details>
+<br/>
 
-### 🖥️ Backend & Database
+<details open>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+<br/>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="65" height="65" title="Linux"/></a>&nbsp;
+<a href="https://www.debian.org/" target="_blank"><img src="https://skillicons.dev/icons?i=debian&theme=dark" width="65" height="65" title="Debian"/></a>&nbsp;
+<a href="https://www.redhat.com/" target="_blank"><img src="https://skillicons.dev/icons?i=redhat&theme=dark" width="65" height="65" title="Red Hat"/></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="65" height="65" title="Docker"/></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65" title="Git"/></a>&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" height="65" title="GitHub"/></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="65" height="65" title="Bash"/></a>&nbsp;
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="65" height="65" title="PowerShell"/></a>&nbsp;
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="65" height="65" title="Cloudflare"/></a>&nbsp;
+<a href="https://www.vagrantup.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vagrant&theme=dark" width="65" height="65" title="Vagrant"/></a>&nbsp;
+<a href="https://www.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=android&theme=dark" width="65" height="65" title="Android"/></a>&nbsp;
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="65" height="65" title="Android Studio"/></a>
+</details>
+<br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<details open>
+<summary><b>🧰 IDEs</b></summary>
+<br/>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="65" height="65" title="VS Code"/></a>&nbsp;
+<a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark" width="65" height="65" title="WebStorm"/></a>&nbsp;
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="65" height="65" title="PyCharm"/></a>&nbsp;
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://skillicons.dev/icons?i=phpstorm&theme=dark" width="65" height="65" title="PhpStorm"/></a>&nbsp;
+<a href="https://www.jetbrains.com/clion/" target="_blank"><img src="https://skillicons.dev/icons?i=clion&theme=dark" width="65" height="65" title="CLion"/></a>
+</details>
+<br/>
 
-### 🛠️ DevOps & Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🧰 IDEs
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![PHPStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-### 🔒 Cybersecurity
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Pen_Testing-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-00ADEF?style=for-the-badge&logo=wireshark&logoColor=white)
+<details open>
+<summary><b>🔒 Cybersecurity</b></summary>
+<br/>
+<a href="https://tryhackme.com/p/abderahman123232" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/abderahman123232.png" width="65" height="65" title="TryHackMe"/></a>&nbsp;
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7/1679A7" width="65" height="65" title="Wireshark"/></a>&nbsp;
+<a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/557C94/557C94" width="65" height="65" title="Kali Linux"/></a>&nbsp;
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633/FF6633" width="65" height="65" title="Burp Suite"/></a>&nbsp;
+<a href="https://www.hackthebox.com/" target="_blank"><img src="https://cdn.simpleicons.org/hackthebox/9FEF00/9FEF00" width="65" height="65" title="Hack The Box"/></a>&nbsp;
+<a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/2596CD/2596CD" width="65" height="65" title="Metasploit"/></a>
+</details>
 
 </div>
 
